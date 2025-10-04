@@ -1,0 +1,21 @@
+/* b{
+    background-color: yellow;
+} */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+i{
+    background-color: teal;
+}
+
+p{
+    color: tan !important;
+}
+
+body{
+    /* background-color: black; */
+}
